@@ -5,7 +5,7 @@
 - 🌱 I’m developing an app with AI and Web 3 integration for mental health to build a start-up.
       Also, I'm growing the mental health engineering community by turning projects into freebies or premium packages for all.
 - 👀 I’m interested in biomedical designs, art nft, mental health tech, mandarin debate, yoga, books, mindfulness practices and therapies.
-     Currently an [Alchemist](https://university.alchemy.com/) wwith EA Pass, learning Road to Web 3 course, also benefited from [metaschool](https://metaschool.so/profile/chee_metaverse)
+     Currently an [Alchemist](https://university.alchemy.com/) wwith EA Pass, learning Road to Web 3 course, also learned Web 3 basics from [metaschool](https://metaschool.so/profile/chee_metaverse) and [buildspace](https://m.buildspace.so/).
 - 📫 How to reach me: Dm me on Linked In:[Chee Pui Khei's Linked In](https://www.linkedin.com/in/cheepuikhei/) who's in the biomedical engineering field in real life.
 
 
