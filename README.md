@@ -7,7 +7,8 @@
 
                                                                                           
   Are you happy and feeling loved today?
-  Here is a love for you as you deserve love as an equal.                                                                                        
+  Here is a love for you as you deserve love as an equal.
+  Feel free to copy it to send it out to spread love and kindness around the world.
                                                                                           
                                                                                           
                      .....'......                        .........                        
