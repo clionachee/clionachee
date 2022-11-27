@@ -53,8 +53,9 @@ Feel free to copy this AI ASCII heart and send it out. Let's spread love and kin
                                      .'`^,""""^`''.                                       
                                        ..````''.                                          
                                            ..                                             
-                                     Are you happy and feeling loved today?  
-                                     Here is a love for you as you deserve love as an equal.
+                          Are you feeling happy and loved today?  
+              Here is a love for you as you deserve all the love from this world.
+
 
                                                    
                                                                                           
