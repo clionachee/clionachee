@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clionachee
+- 👋 Hi, I’m @clionachee, spreading love. Also known as @cheeartsbooks & @chee_metaverse for arts, books & metaverse.
 - 👀 I’m interested in biomedical designs, art nft, mental health tech, mandarin debate, yoga, books, mindfulness practices and therapies.
 - 🌱 I’m currently learning to develop my own app for mental health care in my start-up.
 - 💞️ I’m looking to collaborate on developing an application with AI solution for mental health.
