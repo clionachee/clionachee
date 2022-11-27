@@ -2,7 +2,7 @@
      Also known as [@cheeartsbooks](https://twitter.com/cheeartsbooks) & [@chee_metaverse](https://twitter.com/chee_metaverse) for arts, books, NFT & metaverse.
 - 💞️ I’m collaborating with lovely kind tech geeks on developing an application with AI solution for mental health. 
       Already did, still doing it for more projects yet to come at hackathons hosted by [LabLab.ai](https://lablab.ai/).
-- 🌱 I’m currently learning to develop an app for mental health to build a start-up.
+- 🌱 I’m developing an app with AI and Web 3 integration for mental health to build a start-up.
       Also, I'm growing the mental health engineering community by turning projects into freebies or premium packages for all.
 - 👀 I’m interested in biomedical designs, art nft, mental health tech, mandarin debate, yoga, books, mindfulness practices and therapies.
      Currently an Alchemist wwith EA Pass, Road to Web 3 course.
