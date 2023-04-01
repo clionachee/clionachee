@@ -1,4 +1,4 @@
-- ♥ [Cliona Chee](https://clionachee.com) spreading love.
+- ♥ [Cliona Chee P.K.](https://clionachee.com) spreading love.
 
 <a href="https://app.daily.dev/chee_metaverse"><img src="https://github.com/clionachee/clionachee/blob/main/devcard.svg" width="333" alt="Chee Metaverse's Dev Card"/></a>
 
