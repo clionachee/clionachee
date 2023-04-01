@@ -7,9 +7,10 @@
 - 💞️ Mental Health Engineering DAO in building, giving out [Mental Health DAO Soulbound NFTs](https://mintkudos.xyz/community/mentalHealthDAO) to contributors & supporters. [Collecting & creating NFTs](https://opensea.io/cheeartsbooks) to destigmatise mental health.
 
      
+- 🌱 Accepted into [Nights & Weekends Season 3](https://twitter.com/_nightsweekends). Building mental health AI-to-dApp-to-metaverse automation system for therapists & companies in the field in 6 weeks at [buildspace](https://m.buildspace.so/).
 - 🌱 I’m developing an app with AI and Web 3 integration for mental health to build a start-up.
       Also, I'm growing the mental health engineering community by turning projects into freebies or premium packages for all.
-- 🌱 Learning Web 3 from [Alchemist](https://university.alchemy.com/) learning Road to Web 3 course, also learned Web 3 basics from [metaschool](https://metaschool.so/profile/chee_metaverse) and [buildspace](https://m.buildspace.so/).
+- 🌱 Learning Web 3 from [@AlchemyLearn](https://university.alchemy.com/) Road 2 Web 3 course, also learned Web 3 basics from [metaschool](https://metaschool.so/profile/chee_metaverse) and [buildspace](https://m.buildspace.so/).
 
 - 📫 Linked In:[Chee Pui Khei's Linked In](https://www.linkedin.com/in/cheepuikhei/) 
 - 📫 Biomedical engineering field in real life.
