@@ -1,6 +1,6 @@
 - ♥ [Cliona Chee P.K.](https://clionachee.com) spreading love.
 
-<a href="https://app.daily.dev/chee_metaverse"><img src="https://github.com/clionachee/clionachee/blob/main/devcard.svg" width="333" alt="Chee Metaverse's Dev Card"/></a>
+<a href="https://app.daily.dev/chee_metaverse"><img src="https://github.com/clionachee/clionachee/blob/main/devcard.svg" width="222" alt="Chee Metaverse's Dev Card"/></a>
 
 - 💞️ As a biomedical engineering final year student, this is my final year project and thesis being updated from time-to-time, building metaverse using [Unity](https://www.spatial.io/toolkit) and publish on [Spatial](https://www.spatial.io/), then using [OpenBCI](https://openbci.com/) to test the effects of stress-reducing or stress-stimulating to our brains. [Stimuli-Based Virtual Reality Environment Tested on OpenBCI with EEG Alpha/Beta Ratio for Stress Level](https://eportfolio.utm.my/view/view.php?t=YRS2Wz8fm4egjl3LPI7h)
 - 💞️ Multiple Mental Health AI projects done on [LabLab.ai](https://lablab.ai/). Browse my profile here: [@chee](https://lablab.ai/u/@chee). 
