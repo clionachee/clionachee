@@ -15,10 +15,10 @@
 ________________________________________________________________________________________________________________________
 
 𝓦𝓱𝓮𝓷 𝔂𝓸𝓾 𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 / 𝔀𝓪𝓷𝓷𝓪 𝓪𝓭𝓭 𝓶𝓮, 𝓼𝓪𝔂 𝓱𝓲 & 𝓱𝓪𝓿𝓮 𝓪𝓷 𝓲𝓷𝓽𝓻𝓸 𝓼𝓸 𝓽𝓱𝓪𝓽 𝓘 𝓴𝓷𝓸𝔀 𝔂𝓸𝓾 𝓪𝓲𝓷'𝓽 𝓼𝓹𝓪𝓶 𝓫𝓸𝓽~
-- 📫 Linked In:[My Linked In](https://www.linkedin.com/in/cheepuikhei/) 
-- 📫 Biomedical engineering field in real life.
+- 📫 Linked In: [My Linked In](https://www.linkedin.com/in/cheepuikhei/) 
+- 📫 Biomedical engineering field in real life: [UTM Portfolio](https://eportfolio.utm.my/view/view.php?t=9m4X5GePBDyzgvpwb1nC) 
 - 👋 Main Twitter: [@cheeartsbooks](https://twitter.com/cheeartsbooks) for arts, books, dev & weird thoughts.
-- 👋 Sub-Twitter [@chee_metaverse](https://twitter.com/chee_metaverse) for small sharing & metaverse.
+- 👋 Sub-Twitter: [@chee_metaverse](https://twitter.com/chee_metaverse) for small sharing & metaverse.
 
 - 👀 I’m interested in biomedical designs, art nft, mental health tech, mandarin debate, yoga, books, mindfulness practices and therapies.
 - 👀 I come from a middle-class family, so I'm super duper grateful for all the help, no matter in terms of finances, sponsorship of materials or others along the way that have gotten me this far. I love you all very much.
