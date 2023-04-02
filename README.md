@@ -19,6 +19,7 @@ ________________________________________________________________________________
 - 📫 Biomedical engineering field in real life: [UTM Portfolio](https://eportfolio.utm.my/view/view.php?t=9m4X5GePBDyzgvpwb1nC) 
 - 👋 Main Twitter: [@cheeartsbooks](https://twitter.com/cheeartsbooks) for arts, books, dev & weird thoughts.
 - 👋 Sub-Twitter: [@chee_metaverse](https://twitter.com/chee_metaverse) for small sharing & metaverse.
+- 👋'I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin.' - Neo
 
 - 👀 I’m interested in biomedical designs, art nft, mental health tech, mandarin debate, yoga, books, mindfulness practices and therapies.
 - 👀 I come from a middle-class family, so I'm super duper grateful for all the help, no matter in terms of finances, sponsorship of materials or others along the way that have gotten me this far. I love you all very much.
