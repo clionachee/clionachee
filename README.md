@@ -2,15 +2,19 @@
 
 <a href="https://app.daily.dev/chee_metaverse"><img src="https://github.com/clionachee/clionachee/blob/main/devcard.svg" width="300" alt="Chee Metaverse's Dev Card"/></a>
 
-- 💞️ As a biomedical engineering final year student, this is my final year project and thesis being updated from time-to-time, building metaverse using [Unity](https://unity.com/) and [Spatial Creator ToolKit](https://www.spatial.io/toolkit), then publishing them on [Spatial](https://www.spatial.io/). Lastly, I'm using [OpenBCI](https://openbci.com/) to test the effects of stress-reducing or stress-stimulating to our brains, specifically [Stimuli-Based Virtual Reality Environment Tested on OpenBCI with EEG Alpha/Beta Ratio for Stress Level](https://www.canva.com/design/DAFV-a509Qw/NpiMrwPnrRzaynxEzyzGaw/view?utm_content=DAFV-a509Qw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (This is its Stage 1).
+- 💞️ Biomedical engineering fresh grad!
+- Fresh out of university, I took a leap of faith, like Spider-Man. I made a BIG decision: to launch my own 💞️start-up💞️, [Top Love Tech](https://toplove.tech/) and a [mental health tech squad](https://mentalhealthengineering.com/) right off the bat.
+- Passionate. Creative. Bold.
+- In fact, I actually have joined many competitions, hackathons, exhibitions etc... Well, many challenges are faced, many new things are explored and I grew. You could see [Mental Health Engineering](https://mentalhealthengineering.com/timeline)'s growth curve for the details of that i.e. how many times I sorta didn't make it until I make it.
+- Finished up my [final year project and thesis](https://www.researchgate.net/profile/Chee_Pui_Khei). It's titled Virtual Reality Environments with Stress Stimuli and Assessment Using Electroencephalography Alpha-Beta Ratio.
+- Long story short, I built metaverse spaces specifically for the use of mental health industry using [Unity](https://unity.com/) and [Spatial Creator ToolKit](https://www.spatial.io/toolkit), then publishing them on [Spatial](https://www.spatial.io/@chee). I used [OpenBCI](https://openbci.com/) and [MATLAB Online](https://matlab.mathworks.com/) to test the effects of stress-reducing or stress-stimulating to our brains, view [my deck here](https://www.canva.com/design/DAFoherdGVk/CqK1BqWKobzDpN66z74Lng/view?utm_content=DAFoherdGVk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (This was its Stage 2).
 - 💞️ Multiple Mental Health AI projects done on [LabLab.ai](https://lablab.ai/). Browse my profile here: [@chee](https://lablab.ai/u/@chee). 
-- 💞️ Mental Health Engineering DAO in building, giving out [Mental Health DAO Soulbound NFTs](https://mintkudos.xyz/community/mentalHealthDAO) to contributors & supporters. [Collecting & creating NFTs](https://opensea.io/cheeartsbooks) to destigmatise mental health.
+- 💞️ [Collecting & creating NFTs](https://opensea.io/cheeartsbooks) to destigmatise mental health. Mint my blog as NFTs [here](https://mirror.xyz/clionachee.eth)
 
      
-- 🌱 Accepted into [Nights & Weekends Season 3](https://twitter.com/_nightsweekends). Building mental health AI-to-dApp-to-metaverse automation system for therapists & companies in the field in 6 weeks at [buildspace](https://m.buildspace.so/).
-- 🌱 I’m developing an app with AI and Web 3 integration for mental health to build a start-up.
-      Also, I'm growing the mental health engineering community by turning projects into freebies or premium packages for all.
-- 🌱 Learning Web 3 from [@AlchemyLearn](https://university.alchemy.com/) Road 2 Web 3 course, also learned Web 3 basics from [metaschool](https://metaschool.so/profile/chee_metaverse) and [buildspace](https://m.buildspace.so/).
+- 🌱 Spreading love.
+- 🌱 Highly influenced by reality shows, stories and fun activities that gives hope, peace and love to the world.
+- 🌱 Learning Web 3 with comminities from [LearnWeb3DAO](https://learnweb3.io/u/chee)  , [metaschool](https://metaschool.so/profile/chee_metaverse),  [far.quest](https://far.quest/clionachee.cast),  [@AlchemyLearn](https://university.alchemy.com/) and [buildspace](https://m.buildspace.so/) (btw, buildspace used to share web 3 courses, now I attended nights & weekends, their way of gathering creators to buidl cool things with our own goals within 6 weeks).
 
 ________________________________________________________________________________________________________________________
 
@@ -18,12 +22,12 @@ ________________________________________________________________________________
 - 📫 Linked In: [My Linked In](https://www.linkedin.com/in/cheepuikhei/) 
 - 📫 Biomedical engineering field in real life: [UTM Portfolio](https://eportfolio.utm.my/view/view.php?t=9m4X5GePBDyzgvpwb1nC) 
 - 👋 Main Twitter: [@cheeartsbooks](https://twitter.com/cheeartsbooks) for arts, books, dev & weird thoughts.
-- 👋 Sub-Twitter: [@chee_metaverse](https://twitter.com/chee_metaverse) for small sharing & metaverse.
+- 👋 Start-up's Twitter: [@toplovetech](https://twitter.com/toplovetech) for start-up's mental health metaverse updates.
 - 👋'I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin.' - Neo
 
-- 👀 I’m interested in biomedical designs, art nft, mental health tech, mandarin debate, yoga, books, mindfulness practices and therapies.
+- 👀 I’m interested in biomedical designs, arts, ai, agi, nft, eeg, bci, mental health tech, mandarin debate, yoga, books, mindfulness practices and therapies.
 - 👀 I come from a middle-class family, so I'm super duper grateful for all the help, no matter in terms of finances, sponsorship of materials or others along the way that have gotten me this far. I love you all very much.
-- 👀 I’m still collaborating with lovely kind tech geeks on developing an application with EEG, AI, Web 3 & XR solution for mental health. 
+- 👀 I’m still collaborating with lovely kind tech geeks on developing an application with EEG, AI, Web 3, XR solutions & beyond for mental health. 
 
 ________________________________________________________________________________________________________________________
 
@@ -31,7 +35,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________
 
-This ASCII art is made by the image generated by Stable Diffusion text-to-image generator by Stability.ai on [Hugging Face](https://huggingface.co/stabilityai). Then, the image is being transformed from image-to-ASCII with the ascii-generator.site, a Django website by Sepand Haghighi & hermanTenuki at https://ascii-generator.site/. Enjoy playing around with it!  
+This ASCII art below is made by me using the image generated by Stable Diffusion text-to-image generator by Stability.ai on [Hugging Face](https://huggingface.co/stabilityai). Then, the image is being transformed from image-to-ASCII with the ascii-generator.site, a Django website by Sepand Haghighi & hermanTenuki at https://ascii-generator.site/. Enjoy playing around with it!  
 
 Feel free to copy this AI ASCII heart and send it out. Let's spread love and kindness around the world together!    
 
@@ -83,17 +87,17 @@ Feel free to copy this AI ASCII heart and send it out. Let's spread love and kin
                                                                                           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clionachee&label=Profile%20views&color=fec3f3&style=plastic" alt="clionachee" /> </p>
 
-- 🔭 I’m currently working on [Mental Health Engineering, Top Love Mental Health Metaverse, I-Rene Mental Health AI CBT Chatbot](https://mentalhealthengineering.com/)
+- 🔭 I’m currently working on [Mental Health Engineering, Top Love Tech and videos about tech & dramas.](https://mentalhealthengineering.com/)
 
 - 🌱 I’m currently learning **Unity Spatial Creator Toolkit, AlchemyLearn R2W3, Buildspace N&WS3, etc.**
 
-- 👨‍💻 All of my projects are available at [https://clionachee.com/](https://clionachee.com/)
+- 👨‍💻 All of my personal projects are available at [https://clionachee.com/](https://clionachee.com/).
 
-- 📝 I regularly write articles on [https://mirror.xyz/0xA45eFe8b10a534eA2bE12f555a92610508D27aC2](https://mirror.xyz/0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
+- 📝 I regularly write articles on [https://mirror.xyz/clionachee.eth](https://mirror.xyz/clionachee.eth)
 
 - 💬 Ask me about **Mental health biomedical engineering projects.**
 
-- 📫 How to reach me **cheemetaverse@gmail.com**
+- 📫 How to reach me **clionachee@toplove.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
