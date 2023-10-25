@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 𝓦𝓱𝓮𝓷 𝔂𝓸𝓾 𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 / 𝔀𝓪𝓷𝓷𝓪 𝓪𝓭𝓭 𝓶𝓮, 𝓼𝓪𝔂 𝓱𝓲 & 𝓱𝓪𝓿𝓮 𝓪𝓷 𝓲𝓷𝓽𝓻𝓸 𝓼𝓸 𝓽𝓱𝓪𝓽 𝓘 𝓴𝓷𝓸𝔀 𝔂𝓸𝓾 𝓪𝓲𝓷'𝓽 𝓼𝓹𝓪𝓶 𝓫𝓸𝓽~
 - 📫 Linked In: [My Linked In](https://www.linkedin.com/in/cheepuikhei/) 
-- 📫 Biomedical engineering field in real life: [UTM Portfolio](https://eportfolio.utm.my/view/view.php?t=9m4X5GePBDyzgvpwb1nC) 
+- 📫 My precious memories of the Degree Life 'till 2023: [UTM Portfolio](https://eportfolio.utm.my/view/view.php?t=9m4X5GePBDyzgvpwb1nC) 
 - 👋 Main Twitter: [@cheeartsbooks](https://twitter.com/cheeartsbooks) for arts, books, dev & weird thoughts.
 - 👋 Start-up's Twitter: [@toplovetech](https://twitter.com/toplovetech) for start-up's mental health metaverse updates.
 - 👋'I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin.' - Neo
@@ -82,7 +82,7 @@ Feel free to copy this AI ASCII heart and send it out. Let's spread love and kin
                                        ..````''.                                          
                                            ..                                             
                           Are you feeling happy and loved today?  
-              Here is a love for you as you deserve all the love from this world.
+              Here is a love for you as you deserve all the love from this world. For real!
                                                              
                                                                                           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clionachee&label=Profile%20views&color=fec3f3&style=plastic" alt="clionachee" /> </p>
