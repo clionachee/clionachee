@@ -13,7 +13,7 @@
 
      
 - 🌱 Spreading love.
-- 🌱 Highly influenced by reality shows, stories and fun activities that gives hope, peace and love to the world.
+- 🌱 Highly influenced by reality shows, stories and fun activities that give hope, peace and love to the world.
 - 🌱 Learning Web 3 with comminities from [LearnWeb3DAO](https://learnweb3.io/u/chee)  , [metaschool](https://metaschool.so/profile/chee_metaverse),  [far.quest](https://far.quest/clionachee.cast),  [@AlchemyLearn](https://university.alchemy.com/) and [buildspace](https://m.buildspace.so/) (btw, buildspace used to share web 3 courses, now I attended nights & weekends, their way of gathering creators to buidl cool things with our own goals within 6 weeks).
 
 ________________________________________________________________________________________________________________________
