@@ -1,6 +1,6 @@
 - ♥ [Cliona Chee P.K.](https://clionachee.com) spreading love.
 
-<a href="https://app.daily.dev/chee_metaverse"><img src="https://github.com/clionachee/clionachee/blob/main/devcard.svg" width="300" alt="Chee Metaverse's Dev Card"/></a>
+<a href="https://app.daily.dev/chee"><img src="https://github.com/clionachee/clionachee/blob/main/devcard.svg" width="300" alt="Chee Metaverse's Dev Card"/></a>
 
 - 💞️ Biomedical engineering fresh grad!
 - Fresh out of university, I took a leap of faith, like Spider-Man. I made a BIG decision: to launch my own 💞️start-up💞️, [Top Love Tech](https://toplove.tech/) and a [mental health tech squad](https://mentalhealthengineering.com/) right off the bat.
