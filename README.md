@@ -1,41 +1,28 @@
 - ♥ [Cliona Chee P.K.](https://clionachee.com) spreading love.
 
-<a href="https://app.daily.dev/chee"><img src="https://github.com/clionachee/clionachee/blob/main/devcard.svg" width="300" alt="Chee Metaverse's Dev Card"/></a>
+🩷 Eco-friendly art prints &// shirts shipping worldwide: [chee.teemill.com](https://chee.teemill.com/)
 
-- 💞️ Biomedical engineering fresh grad!
-- Fresh out of university, I took a leap of faith, like Spider-Man. I made a BIG decision: to launch my own 💞️start-up💞️, [Top Love Tech](https://toplove.tech/) and a [mental health tech squad](https://mentalhealthengineering.com/) right off the bat.
-- Passionate. Creative. Bold.
-- In fact, I actually have joined many competitions, hackathons, exhibitions etc... Well, many challenges are faced, many new things are explored and I grew. You could see [Mental Health Engineering](https://mentalhealthengineering.com/timeline)'s growth curve for the details of that i.e. how many times I sorta didn't make it until I make it.
-- Finished up my [final year project and thesis](https://www.researchgate.net/profile/Chee_Pui_Khei). It's titled Virtual Reality Environments with Stress Stimuli and Assessment Using Electroencephalography Alpha-Beta Ratio.
-- Long story short, I built metaverse spaces specifically for the use of mental health industry using [Unity](https://unity.com/) and [Spatial Creator ToolKit](https://www.spatial.io/toolkit), then publishing them on [Spatial](https://www.spatial.io/@chee). I used [OpenBCI](https://openbci.com/) and [MATLAB Online](https://matlab.mathworks.com/) to test the effects of stress-reducing or stress-stimulating to our brains, view [my deck here](https://www.canva.com/design/DAFoherdGVk/CqK1BqWKobzDpN66z74Lng/view?utm_content=DAFoherdGVk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (This was its Stage 2).
-- 💞️ Multiple Mental Health AI projects done on [LabLab.ai](https://lablab.ai/). Browse my profile here: [@chee](https://lablab.ai/u/@chee). 
-- 💞️ [Collecting & creating NFTs](https://opensea.io/cheeartsbooks) to destigmatise mental health. Mint my blog as NFTs [here](https://mirror.xyz/clionachee.eth)
+🩷 Free 3D Asset
+[Hand-sculpted Mindful Lotus 莲 Metallic Petals made in Blender & Nomad Sculpt, etc.](https://skfb.ly/ozYUK)
 
+🩷 Free visits to some of the Mental Health Metaverse spaces (in my degree, biomedical engineering projects):
+[Relaxing Foggy Scene](https://toplove.tech/relaxing)
+[Energy Raising Island ~ HELIO Summit & BELIGHT as collaborators](https://toplove.tech/energy)
      
 - 🌱 Spreading love.
 - 🌱 Highly influenced by reality shows, stories and fun activities that give hope, peace and love to the world.
-- 🌱 Learning Web 3 with comminities from [LearnWeb3DAO](https://learnweb3.io/u/chee)  , [metaschool](https://metaschool.so/profile/chee_metaverse),  [far.quest](https://far.quest/clionachee.cast),  [@AlchemyLearn](https://university.alchemy.com/) and [buildspace](https://m.buildspace.so/) (btw, buildspace used to share web 3 courses, now I attended nights & weekends, their way of gathering creators to buidl cool things with our own goals within 6 weeks).
 
 ________________________________________________________________________________________________________________________
 
-𝓦𝓱𝓮𝓷 𝔂𝓸𝓾 𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 / 𝔀𝓪𝓷𝓷𝓪 𝓪𝓭𝓭 𝓶𝓮, 𝓼𝓪𝔂 𝓱𝓲 & 𝓱𝓪𝓿𝓮 𝓪𝓷 𝓲𝓷𝓽𝓻𝓸 𝓼𝓸 𝓽𝓱𝓪𝓽 𝓘 𝓴𝓷𝓸𝔀 𝔂𝓸𝓾 𝓪𝓲𝓷'𝓽 𝓼𝓹𝓪𝓶 𝓫𝓸𝓽~
-- 📫 Linked In: [My Linked In](https://www.linkedin.com/in/cheepuikhei/) 
-- 📫 My precious memories of the Degree Life 'till 2023: [UTM Portfolio](https://eportfolio.utm.my/view/view.php?t=9m4X5GePBDyzgvpwb1nC) 
-- 👋 Main Twitter: [@cheeartsbooks](https://twitter.com/cheeartsbooks) for arts, books, dev & weird thoughts.
-- 👋 Start-up's Twitter: [@toplovetech](https://twitter.com/toplovetech) for start-up's mental health metaverse updates.
-- 👋'I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin.' - Neo
-
-- 👀 I’m interested in biomedical designs, arts, ai, agi, nft, eeg, bci, mental health tech, mandarin debate, yoga, books, mindfulness practices and therapies.
-- 👀 I come from a middle-class family, so I'm super duper grateful for all the help, no matter in terms of finances, sponsorship of materials or others along the way that have gotten me this far. I love you all very much.
-- 👀 I’m still collaborating with lovely kind tech geeks on developing an application with EEG, AI, Web 3, XR solutions & beyond for mental health. 
+👋 'I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin.' - Neo
 
 ________________________________________________________________________________________________________________________
 
-𝙇𝙚𝙩'𝙨 𝙢𝙖𝙠𝙚 𝙩𝙝𝙞𝙨 𝙡𝙞𝙛𝙚 𝙬𝙤𝙧𝙩𝙝 𝙡𝙞𝙫𝙞𝙣𝙜, 𝙬𝙞𝙩𝙝 𝙡𝙤𝙫𝙚, 𝙟𝙤𝙮 𝙖𝙣𝙙 𝙝𝙤𝙥𝙚.
+𝙇𝙚𝙩'𝙨 𝙢𝙖𝙠𝙚 𝙩𝙝𝙞𝙨 𝙡𝙞𝙛𝙚 𝙬𝙤𝙧𝙩𝙝 𝙡𝙞𝙫𝙞𝙣𝙜, 𝙬𝙞𝙩𝙝 𝙡𝙤𝙫𝙚, 𝙝𝙤𝙥𝙚, 𝙖𝙣𝙙 beyond ~
 
 ________________________________________________________________________________________________________________________
 
-This ASCII art below is made by me using the image generated by Stable Diffusion text-to-image generator by Stability.ai on [Hugging Face](https://huggingface.co/stabilityai). Then, the image is being transformed from image-to-ASCII with the ascii-generator.site, a Django website by Sepand Haghighi & hermanTenuki at https://ascii-generator.site/. Enjoy playing around with it!  
+This ASCII art below is made by me using image-to-ASCII with the ascii-generator.site, a Django website by Sepand Haghighi & hermanTenuki at https://ascii-generator.site/. Enjoy playing around with it!  
 
 Feel free to copy this AI ASCII heart and send it out. Let's spread love and kindness around the world together!    
 
@@ -87,17 +74,20 @@ Feel free to copy this AI ASCII heart and send it out. Let's spread love and kin
                                                                                           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clionachee&label=Profile%20views&color=fec3f3&style=plastic" alt="clionachee" /> </p>
 
-- 🔭 I’m currently working on [Mental Health Engineering, Top Love Tech and videos about tech & dramas.](https://mentalhealthengineering.com/)
+- 🔭 I’m currently connecting neuroscience, nature, & arts
+[Cliona Chee's Creative @cheeartsbooks (Neuro with Nature, Arts & Books) ](https://clionachee.com/) 
+[accepted by nature of Love Legacy](https://acceptedbynature.com/) 
+[Mental Health Engineering](https://mentalhealthengineering.com/)
 
 - 🌱 I’m currently learning **Unity Spatial Creator Toolkit, AlchemyLearn R2W3, Buildspace N&WS3, etc.**
 
 - 👨‍💻 All of my personal projects are available at [https://clionachee.com/](https://clionachee.com/).
 
-- 📝 I regularly write articles on [https://mirror.xyz/clionachee.eth](https://mirror.xyz/clionachee.eth)
+- 📝 I write articles on [https://paragraph.com/@chee](https://paragraph.com/@chee) ~ latest & safe, please note that it's this account (not the previous ones)
 
-- 💬 Ask me about **Mental health biomedical engineering projects.**
-
-- 📫 How to reach me **clionachee@toplove.tech**
+- 📫 How to reach me **@cheeartsbooks &// LinkedIn (&// links in bio)**
+- 📫 Linked In: [My Linked In](https://www.linkedin.com/in/cheepuikhei/)
+𝓦𝓱𝓮𝓷 𝔂𝓸𝓾 𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 / 𝔀𝓪𝓷𝓷𝓪 𝓪𝓭𝓭 𝓶𝓮, 𝓼𝓪𝔂 𝓱𝓲 & 𝓱𝓪𝓿𝓮 𝓪𝓷 𝓲𝓷𝓽𝓻𝓸 𝓼𝓸 𝓽𝓱𝓪𝓽 𝓘 𝓴𝓷𝓸𝔀 𝔂𝓸𝓾 𝓪𝓲𝓷'𝓽 𝓼𝓹𝓪𝓶 𝓫𝓸𝓽~
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -106,4 +96,7 @@ Feel free to copy this AI ASCII heart and send it out. Let's spread love and kin
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+
+<a href="https://app.daily.dev/chee"><img src="https://github.com/clionachee/clionachee/blob/main/devcard.svg" width="300" alt="Chee Metaverse's Dev Card"/></a>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
