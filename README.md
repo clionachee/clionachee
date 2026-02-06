@@ -5,7 +5,7 @@
 🩷 Free 3D Asset
 [Hand-sculpted Mindful Lotus 莲 Metallic Petals made in Blender & Nomad Sculpt, etc.](https://skfb.ly/ozYUK)
 
-🩷 Free visits to some of the Mental Health Metaverse spaces (in my degree, biomedical engineering projects):
+🩷 Free visits to some of the Mental Health Metaverse spaces (in my degree, biomedical engineering projects that are still running as long as Spatial allows):
 🔭 [Relaxing Foggy Scene](https://toplove.tech/relaxing)
 🔭 [Energy Raising Island ~ HELIO Summit & BELIGHT as collaborators](https://toplove.tech/energy)
      
