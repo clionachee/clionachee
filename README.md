@@ -18,13 +18,13 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________
 
-𝙇𝙚𝙩'𝙨 𝙢𝙖𝙠𝙚 𝙩𝙝𝙞𝙨 𝙡𝙞𝙛𝙚 𝙬𝙤𝙧𝙩𝙝 𝙡𝙞𝙫𝙞𝙣𝙜, 𝙬𝙞𝙩𝙝 𝙡𝙤𝙫𝙚, 𝙝𝙤𝙥𝙚, 𝙖𝙣𝙙 beyond ~
+𝙇𝙚𝙩'𝙨 𝙢𝙖𝙠𝙚 𝙩𝙝𝙞𝙨 𝙡𝙞𝙛𝙚 𝙬𝙤𝙧𝙩𝙝 𝙡𝙞𝙫𝙞𝙣𝙜, 𝙬𝙞𝙩𝙝 𝙡𝙤𝙫𝙚, 𝙝𝙤𝙥𝙚, 𝙖𝙣𝙙 beyond ~ <3
 
 ________________________________________________________________________________________________________________________
 
-This ASCII art below is made by me using image-to-ASCII with the ascii-generator.site, a Django website by Sepand Haghighi & hermanTenuki at https://ascii-generator.site/. Enjoy playing around with it!  
+The ASCII art below was made by me using the image-to-ASCII feature on ascii-generator.site, a Django website by Sepand Haghighi & hermanTenuki at https://ascii-generator.site/. Enjoy playing around with it!  
 
-Feel free to copy this AI ASCII heart and send it out. Let's spread love and kindness around the world together!    
+Feel free to copy this ASCII heart and send it out. Let's spread love and kindness around the world together!    
 
 
                                                                                           
