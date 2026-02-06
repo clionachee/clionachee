@@ -6,8 +6,8 @@
 [Hand-sculpted Mindful Lotus 莲 Metallic Petals made in Blender & Nomad Sculpt, etc.](https://skfb.ly/ozYUK)
 
 🩷 Free visits to some of the Mental Health Metaverse spaces (in my degree, biomedical engineering projects):
-[Relaxing Foggy Scene](https://toplove.tech/relaxing)
-[Energy Raising Island ~ HELIO Summit & BELIGHT as collaborators](https://toplove.tech/energy)
+🔭 [Relaxing Foggy Scene](https://toplove.tech/relaxing)
+🔭 [Energy Raising Island ~ HELIO Summit & BELIGHT as collaborators](https://toplove.tech/energy)
      
 - 🌱 Spreading love.
 - 🌱 Highly influenced by reality shows, stories and fun activities that give hope, peace and love to the world.
